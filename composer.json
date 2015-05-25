@@ -1,0 +1,10 @@
+{
+    "name": "silverfire/select2-bootstrap3-css",
+    "description": "Bootstrap3 theme for select2 plugin",
+    "keywords": [
+        "select2",
+        "bootstrap",
+        "styles"
+    ],
+    "homepage": "https://github.com/SilverFire/select2-bootstrap3-css"
+}
