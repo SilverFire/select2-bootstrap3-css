@@ -1,3 +1,5 @@
+# This is a fork of [select2-bootstrap-css](https://github.com/t0m/select2-bootstrap-css/tree/bootstrap3). Branch `master` was replaced with `bootstrap3` to make composer work without `dev` prefix
+
 [select2-bootstrap-css](https://github.com/t0m/select2-bootstrap-css),  
 forked for Bootstrap 3.
 
